@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "id": "effective",
+  "id": "effective_lws",
   "version": "${version}",
-  "name": "Effective",
+  "name": "Effective lower waterfall sound",
   "description": "A client-side mod adding ambient and environmental interaction effects to enhance immersion.",
   "authors": [
-    "doctor4t"
+    "doctor4t",
+    "simplyjeevs"
   ],
   "contact": {
     "homepage": "https://illuminations.uuid.gg/",
-    "sources": "https://github.com/Ladysnake/Effective",
-    "issues": "https://github.com/Ladysnake/Effective/issues"
+    "sources": "https://github.com/SimplyJeevS/Effective",
+    "issues": "https://github.com/SimplyJeevS/Effective/issues"
   },
   "license": "ARR",
   "icon": "assets/effective/effective.png",
