@@ -1,5 +1,10 @@
 # Effective - Changelog:
 
+### Effective 1.1.1 - 1.18.1
+- Lower the volume of the waterfall cascading even more.
+- Added Dutch and Flemish translations
+- Fork originally from https://github.com/Ladysnake/Effective
+
 ### Effective 1.1 - 1.18.1
 - Added two settings to enable or disable splashes and cascade effects available in the config file of your Minecraft instance config folder, thanks to devpelux
 - Implemented various optimizations and performance fixes, thanks to Sollace
@@ -11,4 +16,4 @@
 Initial release with water splashes, lava splashes and cascade effects.
 
 
-see full changelog [here](https://github.com/Ladysnake/Effective/blob/main/CHANGELOG.md "Changelog")
+see full changelog [here](https://github.com/SimplyJeevS/Effective/blob/main/CHANGELOG.md "Changelog")
